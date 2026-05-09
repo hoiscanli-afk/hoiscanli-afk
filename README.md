@@ -54,7 +54,7 @@ Idea → Claude → understand → build → iterate → share
 - Ideas & feedback
 - Anyone curious about AI-assisted making
 
-> *"I'm proof that you don't need to be a developer to build real things."*
+> *"Mostly confused, but occasionally something works."*
 
 ---
 
