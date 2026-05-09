@@ -1,6 +1,6 @@
 # Hey, I'm Onur 👋
 
-> Geology engineer from İzmir, Türkiye · 40 · Learning to build things with AI
+> Geological engineer from İzmir, Türkiye · 40 · Learning to build things with AI
 
 ---
 
