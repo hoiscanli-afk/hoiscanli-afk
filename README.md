@@ -12,19 +12,6 @@ This GitHub is where I park those projects. Not super active, but everything her
 
 ---
 
-## 🛠️ What I'm working on
-
-### 🐹 [HabitatForge](https://github.com/hoiscanli-afk/HabitatForge)
-A browser-based 3D modular hamster habitat designer.  
-Built with Three.js + AI assistance. Outputs print-ready connector geometry for 3D printers.  
-Designed for a 10-year-old. Made by a geologist. Powered by AI. 
-
-### 🤖 Gün — 4WD FPV Trash-Collecting Robot *(in progress)*
-ESP32-S3 · LoRa · TB6612FNG motors · autonomous + manual control  
-A real-world robotics project built from scratch with 3D printed chassis.
-
----
-
 ## 🧠 How I work
 
 I use AI (Claude) as a collaborator — not just a code generator.  
